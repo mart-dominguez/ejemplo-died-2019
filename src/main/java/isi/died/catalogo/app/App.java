@@ -1,7 +1,6 @@
 package isi.died.catalogo.app;
 
-import isi.died.estructuras.grafos.Grafo;
-import isi.died.estructuras.grafos.Vertice;
+import isi.died.catalogo.estructuras.Grafo;
 
 /**
  * Hello world!
